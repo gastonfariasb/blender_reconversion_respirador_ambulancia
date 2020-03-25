@@ -17,5 +17,5 @@ Documento Ejecutivo: https://drive.google.com/drive/folders/1GmDcf3aEQqBVrOEgMim
 Imagenes de Productos existentes y principio de funcionamiento
 
 ![Esquematico](https://raw.githubusercontent.com/gastonfariasb/blender_reconversion_respirador_ambulancia/master/Draft.jpeg)
-![Blender Front]https://raw.githubusercontent.com/gastonfariasb/blender_reconversion_respirador_ambulancia/master/Blender%20(1).jpeg)
+![Blender Front](https://raw.githubusercontent.com/gastonfariasb/blender_reconversion_respirador_ambulancia/master/Blender%20(1).jpeg)
 ![Blender Back](https://raw.githubusercontent.com/gastonfariasb/blender_reconversion_respirador_ambulancia/master/Blender%20(2).jpeg)
