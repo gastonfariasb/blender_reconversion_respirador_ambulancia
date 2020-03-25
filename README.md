@@ -2,7 +2,9 @@
 Desarrollo de un Blender Open Source de 100 litros por minuto
 
 
-El Gobierno de Misiones, está pensando reconvertir respiradores de ambulancia en respiradores para ventilar pacientes con patologías pulmonares. Para dicho fin se requiere un Blender con una capacidad de 100 litros / minuto que permita dosificar la proporción de Oxigeno con la cual se ventila al paciente.
+El Gobierno de Misiones, está pensando reconvertir respiradores de ambulancia en respiradores para ventilar pacientes con patologías pulmonares. Para dicho fin requieren un Blender con una capacidad de 100 litros / minuto que permita dosificar la proporción de Oxigeno con la cual se ventila al paciente.
+
+La provincia cuenta con unas 250 ambulancias, mas las ambulancias de propiedad privada. Estimamos que existan entre 5k y 15k ambulancias en todo el pais, con un equipo homologado y capaz de ser reconvertido.
 
 - 100 Litros / minuto
 - Acoples DISS Medicinal
