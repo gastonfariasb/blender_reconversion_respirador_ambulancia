@@ -16,6 +16,6 @@ Documento Ejecutivo: https://drive.google.com/drive/folders/1GmDcf3aEQqBVrOEgMim
 
 Imagenes de Productos existentes
 
-![Test Image 4](https://drive.google.com/open?id=1NqQsGVid1e71tg4G2Cx0cdrgmw8AhDTC)
+![Test Image 4](https://raw.githubusercontent.com/gastonfariasb/blender_reconversion_respirador_ambulancia/master/Draft.jpeg)
 ![Test Image 4](https://github.com/tograh/testrepository/3DTest.png)
 ![Test Image 4](https://github.com/tograh/testrepository/3DTest.png)
