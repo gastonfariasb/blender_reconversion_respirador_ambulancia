@@ -13,6 +13,11 @@ La provincia cuenta con unas 250 ambulancias, mas las ambulancias de propiedad p
 
 Documento Ejecutivo: https://drive.google.com/drive/folders/1GmDcf3aEQqBVrOEgMim2i3tChC16GmOK
 
+Notas: 100 l/min 
+Es el caudal máximo de entrada que pide el fabricante. La idea es no tocar el equipo, y que funcione como una caja negra y cumpla su función. Al ciclador necesita q entre mínimo a 4 bar, estoy charlando con fabrica, para ver si se podía bajar el caudal.
+No, solo trabaja con elctrovalvulas proporcionales, controladas x PWM. El líder en el mercado nacional es Leistung. Ahí te paso el modelo más común q es el más básico.
+ http://leistungargentina.com.ar/es/?project=pr4-d-plus
+
 
 Imagenes de Productos existentes y principio de funcionamiento
 
